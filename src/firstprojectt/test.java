@@ -20,6 +20,8 @@ import org.testng.annotations.Test;
 public class test {
 
 	WebDriver driver = new ChromeDriver();
+	WebDriver driver2 = new ChromeDriver();
+	//lujain
 
 	String mywebsite = "https://automationteststore.com/";
 	String [] firsttnames= {"ahmad","omar","yousef","abd","issa","sara","amal"};
